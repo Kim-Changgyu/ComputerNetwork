@@ -1,4 +1,9 @@
-# Python Socket 모듈을 활용한 HTTP REQUEST/RESPONSE
+# Python Socket 모듈을 활용한 HTTP Request/Response
+
+### 프로그램 설명서 (PDF)
+[바로가기](docs/README.pdf)
+
+---
 
 ### 프로그램 실행법
 
@@ -10,8 +15,6 @@ python server.py
 ```python
 python client.py
 ```
-
----
 
 * 클라이언트 요청
 ```bash
