@@ -1,2 +1,3 @@
 # ComputerNetwork
- Django Framework를 활용한 HTTP 통신 과제
+
+Python Socket 모듈을 활용한 HTTP REQUEST/RESPONSE
